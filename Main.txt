@@ -1,0 +1,3 @@
+This is the main branch of the project.
+
+I'm just learning some things about git and github
